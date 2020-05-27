@@ -1,8 +1,5 @@
 console.log('App.js is running!');
 
-// only render the subtitle (and p tag) if subtitle exist - logical and operator
-// render new p tag - if options.length > 0 "here are your options" "No Options"
-
 const article = {
     title: "To Kill a Mockingbird",
     subtitle: "The Modern Prometheus",
